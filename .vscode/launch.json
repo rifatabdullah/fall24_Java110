@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "p11",
+            "request": "launch",
+            "mainClass": "p11",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "p10",
+            "request": "launch",
+            "mainClass": "p10",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "p4",
+            "request": "launch",
+            "mainClass": "p4",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "p3",
+            "request": "launch",
+            "mainClass": "p3",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "p2",
+            "request": "launch",
+            "mainClass": "p2",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "p1",
+            "request": "launch",
+            "mainClass": "p1",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "SequenceUsingWhile",
+            "request": "launch",
+            "mainClass": "SequenceUsingWhile",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "p13",
+            "request": "launch",
+            "mainClass": "p13",
+            "projectName": "codespaces-blank_ba63f403"
+        }
+    ]
+}
