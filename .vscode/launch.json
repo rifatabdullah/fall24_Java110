@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "p15",
+            "request": "launch",
+            "mainClass": "p15",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
             "name": "p11",
             "request": "launch",
             "mainClass": "p11",
